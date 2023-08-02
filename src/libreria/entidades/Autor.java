@@ -21,7 +21,7 @@ public class Autor {
     private Long id;
     private String nombre;
     private Boolean alta;
-
+private String pruebagit = "Prueba GIT HUB";
     public Autor() {
     }
 
